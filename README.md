@@ -1,0 +1,2 @@
+# Banking-Dataset-Analytics
+Data Analysis for Synthetic Banking Dataset
