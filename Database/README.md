@@ -1,5 +1,5 @@
 # Banking System Database
-
+ 
 ## Overview
 
 - This database simulates a banking system, containing information about customers, employees, departments, accounts, transactions, and correspondent banks.
@@ -36,3 +36,4 @@ cursor = conn.cursor()
 ```
 ## Disclaimer
 - This data is synthetic data for educational purposes only and not linked to any real bank or customer.
+
